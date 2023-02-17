@@ -14,7 +14,6 @@ const fetcher = function (source, filePath) {
     });
   });
 
-
 };
   
 fetcher('http://www.example.edu', './test.txt')
